@@ -1,6 +1,0 @@
-[submodule "plugins"]
-	path = plugins
-	url = https://github.com/ethereum/remix-plugins-directory
-[submodule "website"]
-	path = website
-	url = https://github.com/ethereum/remix-website
