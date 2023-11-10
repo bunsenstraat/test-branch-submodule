@@ -4,3 +4,6 @@
 [submodule "website"]
 	path = website
 	url = https://github.com/ethereum/remix-website
+[submodule "recursive"]
+	path = recursive
+	url = https://github.com/bunsenstraat/test-branch-submodule-recursive
