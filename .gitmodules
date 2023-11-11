@@ -7,3 +7,6 @@
 [submodule "recursive"]
 	path = recursive
 	url = https://github.com/bunsenstraat/test-branch-submodule-recursive
+[submodule "libdeep/recursivedeep"]
+	path = libdeep/recursivedeep
+	url = https://github.com/bunsenstraat/test-branch-submodule-recursive
