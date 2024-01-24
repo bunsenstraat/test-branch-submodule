@@ -1,0 +1,12 @@
+[submodule "test-branch-submodule-2"]
+	path = test-branch-submodule-2
+	url = https://github.com/bunsenstraat/test-branch-submodule-2
+[submodule "test-branch-submodule-recursive"]
+	path = test-branch-submodule-recursive
+	url = https://github.com/bunsenstraat/test-branch-submodule-recursive
+[submodule "libdeep"]
+	path = libdeep
+	url = https://github.com/bunsenstraat/test-branch-submodule-recursive
+[submodule "libdeep2/recursive"]
+	path = libdeep2/recursive
+	url = https://github.com/bunsenstraat/test-branch-submodule-recursive
